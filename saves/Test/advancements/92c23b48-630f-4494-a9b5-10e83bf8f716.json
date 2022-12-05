@@ -17,12 +17,6 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/source_jar": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/ars_nouveau/source_berry_roll": {
     "criteria": {
       "has_journal": "2022-12-05 21:29:56 +0100"
@@ -41,12 +35,6 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/archwood_pressure_plate": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_6": {
     "criteria": {
       "has_journal": "2022-12-05 21:29:56 +0100"
@@ -60,12 +48,6 @@
     "done": true
   },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_5": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_small_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2022-12-05 21:29:56 +0100"
     },
@@ -143,37 +125,7 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/blank_thread": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/challenge_2": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/ars_nouveau/ritual_challenge": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/dowsing_rod": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/imbuement_chamber": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/runic_chalk": {
     "criteria": {
       "has_journal": "2022-12-05 21:29:56 +0100"
     },
@@ -191,19 +143,7 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/building_blocks/conjuration_essence_to_end_stone": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/ars_nouveau/allow_scroll": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/source_berry_pie": {
     "criteria": {
       "has_journal": "2022-12-05 21:29:56 +0100"
     },
@@ -215,19 +155,7 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/misc/air_essence_to_snow_bucket": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/ars_nouveau/mundane_belt": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/ritual_brazier": {
     "criteria": {
       "has_journal": "2022-12-05 21:29:56 +0100"
     },
@@ -240,12 +168,6 @@
     "done": true
   },
   "ars_nouveau:recipes/ars_nouveau/archwood_fence_gate": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/enchanting_apparatus": {
     "criteria": {
       "has_journal": "2022-12-05 21:29:56 +0100"
     },
@@ -275,12 +197,6 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_alternating_to_sourcestone": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/ars_nouveau/volcanic_sourcelink": {
     "criteria": {
       "has_journal": "2022-12-05 21:29:56 +0100"
@@ -299,21 +215,9 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/purple_sbed": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2022-12-05 21:17:38 +0100"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/ritual_warping": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
     },
     "done": true
   },
@@ -341,37 +245,7 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/combat/spike_to_arrow": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/wilden_summon_alt": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/archwood_slab": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/ritual_scrying": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/conjuration_essence_to_soul_sand": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/building_blocks/water_essence_to_obsidian": {
     "criteria": {
       "has_journal": "2022-12-05 21:29:56 +0100"
     },
@@ -389,37 +263,13 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/ritual_burrowing": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/ars_nouveau/arcane_core": {
     "criteria": {
       "has_journal": "2022-12-05 21:29:56 +0100"
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/ritual_moonfall": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/water_essence_to_bucket": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/relay": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/blaze_fiber": {
     "criteria": {
       "has_journal": "2022-12-05 21:29:56 +0100"
     },
@@ -443,12 +293,6 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/ritual_flight": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/ars_nouveau/purple_archwood_wood": {
     "criteria": {
       "has_journal": "2022-12-05 21:29:56 +0100"
@@ -456,12 +300,6 @@
     "done": true
   },
   "ars_nouveau:recipes/ars_nouveau/manipulation_essence_to_blazin_sapling": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/ritual_overgrowth": {
     "criteria": {
       "has_journal": "2022-12-05 21:29:56 +0100"
     },
@@ -497,12 +335,6 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/building_blocks/manipulation_essence_to_granite": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_12": {
     "criteria": {
       "has_journal": "2022-12-05 21:29:56 +0100"
@@ -533,12 +365,6 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/decorations/archwood_to_chest": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/ars_nouveau/archwood_planks": {
     "criteria": {
       "has_journal": "2022-12-05 21:29:56 +0100"
@@ -551,25 +377,7 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/stripped_green_archwood_wood": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/mob_jar": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/ars_nouveau/potion_diffuser": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_small_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2022-12-05 21:29:56 +0100"
     },
@@ -593,6 +401,558 @@
     },
     "done": true
   },
+  "storagedrawers:recipes/storagedrawers/birch_trim": {
+    "criteria": {
+      "has_planks": "2022-12-05 22:00:22 +0100"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/minecolonies/blockwaypoint": {
+    "criteria": {
+      "has_build_tool": "2022-12-05 21:19:25 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/sconce": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/spell_parchment": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/manipulation_essence_to_diorite": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/ritual_wilden_summon": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:root": {
+    "criteria": {
+      "ars_nouveau:worn_notebook": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2022-12-05 21:17:38 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/blue_archwood_wood": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/greater_experience_gem": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/end_fiber": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2022-12-05 21:17:38 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/ritual_sunrise": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/deny_scroll": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/min_redstone_upgrade": {
+    "criteria": {
+      "has_template": "2022-12-05 22:00:22 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/ritual_restoration": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/void_upgrade": {
+    "criteria": {
+      "has_template": "2022-12-05 22:00:22 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/blank_parchment": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/warp_scroll": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/decorations/manipulation_essence_to_moss_block": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/warped_trim": {
+    "criteria": {
+      "has_planks": "2022-12-05 22:00:22 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/agronomic_sourcelink": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/annotated_codex": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_large_bricks_to_sourcestone": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2022-12-05 21:51:51 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/archwood_chest": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/fire_essence_to_charge": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_basketweave_to_sourcestone": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/ritual_awakening": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/illumination_upgrade": {
+    "criteria": {
+      "has_template": "2022-12-05 22:00:22 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/spike_to_dye": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_mosaic_to_sourcestone": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/manipulation_essence_to_vexing_sapling": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/sourcestone": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/redstone_upgrade": {
+    "criteria": {
+      "has_template": "2022-12-05 22:00:22 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/wixie_hat": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2022-12-05 21:19:25 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/ritual_binding": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/red_sbed": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/sourcestone_mosaic_to_sourcestone": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/diamond_storage_upgrade": {
+    "criteria": {
+      "has_template": "2022-12-05 22:00:22 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/concealment_key": {
+    "criteria": {
+      "has_template": "2022-12-05 22:00:22 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/spruce_trim": {
+    "criteria": {
+      "has_planks": "2022-12-05 22:00:22 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/iron_storage_upgrade": {
+    "criteria": {
+      "has_template": "2022-12-05 22:00:22 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/jungle_trim": {
+    "criteria": {
+      "has_planks": "2022-12-05 22:00:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2022-12-05 21:17:38 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/magebloom_to_pink": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/worn_notebook": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/archwood_stairs": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/archwood_button": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_alternating_to_sourcestone": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/wing_to_leather": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/sourcestone_basketweave_to_sourcestone": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/source_jar": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/deeperdarker/echo_boat": {
+    "criteria": {
+      "in_water": "2022-12-05 22:00:50 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/archwood_pressure_plate": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_small_bricks_to_sourcestone": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/blank_thread": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/challenge_2": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/dowsing_rod": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/imbuement_chamber": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/runic_chalk": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/conjuration_essence_to_end_stone": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/source_berry_pie": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/misc/air_essence_to_snow_bucket": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/ritual_brazier": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/enchanting_apparatus": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_alternating_to_sourcestone": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/purple_sbed": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/ritual_warping": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/fill_level_upgrade": {
+    "criteria": {
+      "has_template": "2022-12-05 22:00:22 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/combat/spike_to_arrow": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/wilden_summon_alt": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/archwood_slab": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/quantify_key": {
+    "criteria": {
+      "has_template": "2022-12-05 22:00:22 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/max_redstone_upgrade": {
+    "criteria": {
+      "has_template": "2022-12-05 22:00:22 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/ritual_scrying": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/water_essence_to_obsidian": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/ritual_burrowing": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/ritual_moonfall": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/relay": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/blaze_fiber": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/acacia_trim": {
+    "criteria": {
+      "has_planks": "2022-12-05 22:00:22 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/ritual_flight": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/ritual_overgrowth": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/crimson_trim": {
+    "criteria": {
+      "has_planks": "2022-12-05 22:00:22 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/building_blocks/manipulation_essence_to_granite": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/dark_oak_trim": {
+    "criteria": {
+      "has_planks": "2022-12-05 22:00:22 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/decorations/archwood_to_chest": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/stripped_green_archwood_wood": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/mob_jar": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_small_bricks_to_sourcestone": {
+    "criteria": {
+      "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_large_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2022-12-05 21:29:56 +0100"
@@ -602,12 +962,6 @@
   "ars_nouveau:recipes/building_blocks/fire_essence_to_magma_block": {
     "criteria": {
       "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
-  "minecolonies:recipes/minecolonies/blockwaypoint": {
-    "criteria": {
-      "has_build_tool": "2022-12-05 21:19:25 +0100"
     },
     "done": true
   },
@@ -641,12 +995,6 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/sconce": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/ars_nouveau/archwood_trapdoor": {
     "criteria": {
       "has_journal": "2022-12-05 21:29:56 +0100"
@@ -654,12 +1002,6 @@
     "done": true
   },
   "ars_nouveau:recipes/ars_nouveau/clear_allow": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/spell_parchment": {
     "criteria": {
       "has_journal": "2022-12-05 21:29:56 +0100"
     },
@@ -677,14 +1019,9 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/building_blocks/manipulation_essence_to_diorite": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2022-12-05 22:00:45 +0100",
       "minecraft:birch_forest": "2022-12-05 21:19:12 +0100",
       "minecraft:beach": "2022-12-05 21:18:41 +0100",
       "minecraft:river": "2022-12-05 21:34:05 +0100",
@@ -693,6 +1030,7 @@
       "minecraft:lush_caves": "2022-12-05 21:17:52 +0100",
       "minecraft:ocean": "2022-12-05 21:18:43 +0100",
       "minecraft:old_growth_birch_forest": "2022-12-05 21:17:27 +0100",
+      "minecraft:meadow": "2022-12-05 21:52:23 +0100",
       "minecraft:savanna": "2022-12-05 21:34:04 +0100",
       "minecraft:plains": "2022-12-05 21:31:50 +0100"
     },
@@ -704,21 +1042,15 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/ritual_wilden_summon": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
-  "ars_nouveau:root": {
-    "criteria": {
-      "ars_nouveau:worn_notebook": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/ars_nouveau/spell_prism": {
     "criteria": {
       "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/one_stack_upgrade": {
+    "criteria": {
+      "has_template": "2022-12-05 22:00:22 +0100"
     },
     "done": true
   },
@@ -728,31 +1060,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/birch_boat": {
+  "storagedrawers:recipes/storagedrawers/oak_trim": {
     "criteria": {
-      "in_water": "2022-12-05 21:17:38 +0100"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/blue_archwood_wood": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/greater_experience_gem": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
+      "has_planks": "2022-12-05 22:00:22 +0100"
     },
     "done": true
   },
   "ars_nouveau:recipes/ars_nouveau/scry_to_blank_parchment": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/end_fiber": {
     "criteria": {
       "has_journal": "2022-12-05 21:29:56 +0100"
     },
@@ -764,37 +1078,7 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2022-12-05 21:17:38 +0100"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/ritual_sunrise": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/deny_scroll": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/ars_nouveau/green_archwood_wood": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/ritual_restoration": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/blank_parchment": {
     "criteria": {
       "has_journal": "2022-12-05 21:29:56 +0100"
     },
@@ -812,21 +1096,9 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/warp_scroll": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2022-12-05 21:17:38 +0100"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/decorations/manipulation_essence_to_moss_block": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
     },
     "done": true
   },
@@ -839,6 +1111,12 @@
   "ars_nouveau:recipes/ars_nouveau/experience_gem": {
     "criteria": {
       "has_journal": "2022-12-05 21:29:56 +0100"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/drawer_key": {
+    "criteria": {
+      "has_template": "2022-12-05 22:00:22 +0100"
     },
     "done": true
   },
@@ -860,37 +1138,7 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/agronomic_sourcelink": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/annotated_codex": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_large_bricks_to_sourcestone": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/ars_nouveau/archwood_door": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/archwood_chest": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/fire_essence_to_charge": {
     "criteria": {
       "has_journal": "2022-12-05 21:29:56 +0100"
     },
@@ -914,24 +1162,6 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_basketweave_to_sourcestone": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/ritual_awakening": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/spike_to_dye": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/ars_nouveau/basic_spell_turret": {
     "criteria": {
       "has_journal": "2022-12-05 21:29:56 +0100"
@@ -939,12 +1169,6 @@
     "done": true
   },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_alternating_to_sourcestone": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_mosaic_to_sourcestone": {
     "criteria": {
       "has_journal": "2022-12-05 21:29:56 +0100"
     },
@@ -962,15 +1186,9 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/manipulation_essence_to_vexing_sapling": {
+  "storagedrawers:recipes/storagedrawers/emerald_storage_upgrade": {
     "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/sourcestone": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
+      "has_template": "2022-12-05 22:00:22 +0100"
     },
     "done": true
   },
@@ -980,21 +1198,9 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/wixie_hat": {
+  "storagedrawers:recipes/storagedrawers/obsidian_storage_upgrade": {
     "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
-  "create:root": {
-    "criteria": {
-      "0": "2022-12-05 21:19:25 +0100"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/ritual_binding": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
+      "has_template": "2022-12-05 22:00:22 +0100"
     },
     "done": true
   },
@@ -1004,15 +1210,9 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/red_sbed": {
+  "storagedrawers:recipes/storagedrawers/gold_storage_upgrade": {
     "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/sourcestone_mosaic_to_sourcestone": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
+      "has_template": "2022-12-05 22:00:22 +0100"
     },
     "done": true
   },
@@ -1028,18 +1228,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2022-12-05 21:17:38 +0100"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/magebloom_to_pink": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/ars_nouveau/mimic_scroll": {
     "criteria": {
       "has_journal": "2022-12-05 21:29:56 +0100"
@@ -1047,18 +1235,6 @@
     "done": true
   },
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_large_bricks_to_sourcestone": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/worn_notebook": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/archwood_stairs": {
     "criteria": {
       "has_journal": "2022-12-05 21:29:56 +0100"
     },
@@ -1082,31 +1258,7 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/archwood_button": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_alternating_to_sourcestone": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/misc/wing_to_leather": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/ars_nouveau/clear_deny": {
-    "criteria": {
-      "has_journal": "2022-12-05 21:29:56 +0100"
-    },
-    "done": true
-  },
-  "ars_nouveau:recipes/ars_nouveau/sourcestone_basketweave_to_sourcestone": {
     "criteria": {
       "has_journal": "2022-12-05 21:29:56 +0100"
     },

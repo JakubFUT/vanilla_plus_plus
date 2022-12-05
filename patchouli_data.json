@@ -1,5 +1,14 @@
 {
   "bookGuiScale": 0,
   "clickedVisualize": false,
-  "bookData": {}
+  "bookData": {
+    "ars_nouveau:worn_notebook": {
+      "viewedEntries": [
+        "ars_nouveau:equipment/dull_items",
+        "ars_nouveau:equipment/ring_of_lesser_discount"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
 }
