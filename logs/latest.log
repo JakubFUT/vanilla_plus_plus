@@ -1,0 +1,144 @@
+[22:06:31] [main/INFO]: ModLauncher running: args [--username, Tedodor423, --version, forge-43.1.7, --gameDir, C:\Users\tedik\curseforge\minecraft\Instances\vanilla_plus_plus, --assetsDir, C:\Users\tedik\curseforge\minecraft\Install\assets, --assetIndex, 1.19, --uuid, b9c36fb17f2e47c19587f319e6d1b10c, --accessToken, ????????, --clientId, Njg1Nzk0MDEtZDM4ZS00YmYxLWJhNjAtNTk3YTFmYzI4Yjlh, --xuid, 2535428656123894, --userType, msa, --versionType, release, --width, 1024, --height, 768, --launchTarget, forgeclient, --fml.forgeVersion, 43.1.7, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
+[22:06:31] [main/INFO]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.3 by Microsoft; OS Windows 10 arch amd64 version 10.0
+[22:06:31] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/tedik/curseforge/minecraft/Install/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2391!/ Service=ModLauncher Env=CLIENT
+[22:06:31] [main/INFO]: Found mod file blockui-1.19-0.0.64-ALPHA.jar of type MOD with provider {mods folder locator at C:\Users\tedik\curseforge\minecraft\Instances\vanilla_plus_plus\mods}
+[22:06:31] [main/INFO]: Found mod file create-1.19.2-0.5.0.f.jar of type MOD with provider {mods folder locator at C:\Users\tedik\curseforge\minecraft\Instances\vanilla_plus_plus\mods}
+[22:06:31] [main/INFO]: Found mod file domum_ornamentum-1.19-1.0.75-ALPHA-universal.jar of type MOD with provider {mods folder locator at C:\Users\tedik\curseforge\minecraft\Instances\vanilla_plus_plus\mods}
+[22:06:31] [main/INFO]: Found mod file jei-1.19.2-forge-11.4.0.287.jar of type MOD with provider {mods folder locator at C:\Users\tedik\curseforge\minecraft\Instances\vanilla_plus_plus\mods}
+[22:06:31] [main/INFO]: Found mod file minecolonies-1.19.2-1.0.1135-ALPHA.jar of type MOD with provider {mods folder locator at C:\Users\tedik\curseforge\minecraft\Instances\vanilla_plus_plus\mods}
+[22:06:31] [main/INFO]: Found mod file multipiston-1.19.2-1.2.21-ALPHA.jar of type MOD with provider {mods folder locator at C:\Users\tedik\curseforge\minecraft\Instances\vanilla_plus_plus\mods}
+[22:06:31] [main/INFO]: Found mod file structurize-1.19.2-1.0.467-BETA.jar of type MOD with provider {mods folder locator at C:\Users\tedik\curseforge\minecraft\Instances\vanilla_plus_plus\mods}
+[22:06:31] [main/WARN]: Mod file C:\Users\tedik\curseforge\minecraft\Install\libraries\net\minecraftforge\fmlcore\1.19.2-43.1.7\fmlcore-1.19.2-43.1.7.jar is missing mods.toml file
+[22:06:31] [main/WARN]: Mod file C:\Users\tedik\curseforge\minecraft\Install\libraries\net\minecraftforge\javafmllanguage\1.19.2-43.1.7\javafmllanguage-1.19.2-43.1.7.jar is missing mods.toml file
+[22:06:31] [main/WARN]: Mod file C:\Users\tedik\curseforge\minecraft\Install\libraries\net\minecraftforge\lowcodelanguage\1.19.2-43.1.7\lowcodelanguage-1.19.2-43.1.7.jar is missing mods.toml file
+[22:06:31] [main/WARN]: Mod file C:\Users\tedik\curseforge\minecraft\Install\libraries\net\minecraftforge\mclanguage\1.19.2-43.1.7\mclanguage-1.19.2-43.1.7.jar is missing mods.toml file
+[22:06:32] [main/INFO]: Found mod file fmlcore-1.19.2-43.1.7.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@51745f40
+[22:06:32] [main/INFO]: Found mod file javafmllanguage-1.19.2-43.1.7.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@51745f40
+[22:06:32] [main/INFO]: Found mod file lowcodelanguage-1.19.2-43.1.7.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@51745f40
+[22:06:32] [main/INFO]: Found mod file mclanguage-1.19.2-43.1.7.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@51745f40
+[22:06:32] [main/INFO]: Found mod file client-1.19.2-20220805.130853-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@51745f40
+[22:06:32] [main/INFO]: Found mod file forge-1.19.2-43.1.7-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@51745f40
+[22:06:32] [main/INFO]: Found 2 dependencies adding them to mods collection
+[22:06:32] [main/INFO]: Found mod file flywheel-forge-1.19.2-0.6.7-8.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@543e593
+[22:06:32] [main/INFO]: Found mod file Registrate-MC1.19-1.1.5.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@543e593
+[22:06:34] [main/INFO]: Compatibility level set to JAVA_17
+[22:06:34] [main/INFO]: Launching target 'forgeclient' with arguments [--version, forge-43.1.7, --gameDir, C:\Users\tedik\curseforge\minecraft\Instances\vanilla_plus_plus, --assetsDir, C:\Users\tedik\curseforge\minecraft\Install\assets, --uuid, b9c36fb17f2e47c19587f319e6d1b10c, --username, Tedodor423, --assetIndex, 1.19, --accessToken, ????????, --clientId, Njg1Nzk0MDEtZDM4ZS00YmYxLWJhNjAtNTk3YTFmYzI4Yjlh, --xuid, 2535428656123894, --userType, msa, --versionType, release, --width, 1024, --height, 768]
+[22:06:34] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/data/ChunkRenderData$Builder (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.render.chunk.data.ChunkRenderData$Builder)
+[22:06:34] [main/WARN]: @Mixin target me.jellysquid.mods.sodium.client.render.chunk.data.ChunkRenderData$Builder was not found flywheel.mixins.json:instancemanage.SodiumChunkRenderDataMixin
+[22:06:41] [pool-3-thread-1/INFO]: Building unoptimized datafixer
+[22:06:44] [Render thread/WARN]: Assets URL 'union:/C:/Users/tedik/curseforge/minecraft/Install/libraries/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-srg.jar%23152!/assets/.mcassetsroot' uses unexpected schema
+[22:06:44] [Render thread/WARN]: Assets URL 'union:/C:/Users/tedik/curseforge/minecraft/Install/libraries/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-srg.jar%23152!/data/.mcassetsroot' uses unexpected schema
+[22:06:44] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:06:44] [Render thread/INFO]: Setting user: Tedodor423
+[22:06:45] [Render thread/INFO]: Backend library: LWJGL version 3.3.1 build 7
+[22:06:45] [modloading-worker-0/INFO]: No shaders mod detected.
+[22:06:45] [modloading-worker-0/INFO]: Forge mod loading, version 43.1.7, for MC 1.19.2 with MCP 20220805.130853
+[22:06:45] [modloading-worker-0/INFO]: MinecraftForge v43.1.7 Initialized
+[22:06:45] [Structurize IO Worker #0/INFO]: Registered structure pack: Shire
+[22:06:45] [Structurize IO Worker #0/INFO]: Registered structure pack: Desert Oasis
+[22:06:45] [Structurize IO Worker #0/INFO]: Registered structure pack: Pagoda
+[22:06:45] [Structurize IO Worker #0/INFO]: Registered structure pack: Minecolonies Original
+[22:06:45] [Structurize IO Worker #0/INFO]: Registered structure pack: Caledonia
+[22:06:45] [Structurize IO Worker #0/INFO]: Registered structure pack: Incan
+[22:06:45] [Structurize IO Worker #0/INFO]: Registered structure pack: Warped Netherlands
+[22:06:45] [Structurize IO Worker #0/INFO]: Registered structure pack: Dark Oak Treehouse
+[22:06:45] [Structurize IO Worker #0/INFO]: Registered structure pack: Urban Birch
+[22:06:45] [Structurize IO Worker #0/INFO]: Registered structure pack: Medieval Oak
+[22:06:45] [Structurize IO Worker #0/INFO]: Registered structure pack: Medieval Birch
+[22:06:45] [Structurize IO Worker #0/INFO]: Registered structure pack: Cavern
+[22:06:45] [Structurize IO Worker #0/INFO]: Registered structure pack: Space Wars
+[22:06:45] [Structurize IO Worker #0/INFO]: Registered structure pack: Medieval Spruce
+[22:06:45] [Structurize IO Worker #0/INFO]: Registered structure pack: Jungle Treehouse
+[22:06:45] [Structurize IO Worker #0/INFO]: Registered structure pack: Nordic Spruce
+[22:06:45] [Structurize IO Worker #0/INFO]: Registered structure pack: Medieval Dark Oak
+[22:06:45] [Structurize IO Worker #0/INFO]: Registered structure pack: Urban Savanna
+[22:06:45] [Structurize IO Worker #0/INFO]: Registered structure pack: Stalactite Caves
+[22:06:45] [Structurize IO Worker #0/INFO]: Registered structure pack: Lost Mesa City
+[22:06:45] [Structurize IO Worker #0/INFO]: Registered structure pack: Fortress
+[22:06:45] [Structurize IO Worker #0/INFO]: Registered structure pack: Tedodor423
+[22:06:45] [Structurize IO Worker #0/WARN]: Finished discovering Client Structure packs
+[22:06:52] [Render thread/INFO]: Saving config file: C:\Users\tedik\curseforge\minecraft\Instances\vanilla_plus_plus\config\jei\jei-client.ini
+[22:06:53] [Render thread/INFO]: Narrator library for x64 successfully loaded
+[22:06:53] [Render thread/INFO]: Reloading ResourceManager: Default, Mod Resources
+[22:06:53] [modloading-worker-0/WARN]: Configuration file C:\Users\tedik\curseforge\minecraft\Instances\vanilla_plus_plus\config\flywheel-client.toml is not correct. Correcting
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key backend was corrected from null to its default, INSTANCING. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key debugNormals was corrected from null to its default, false. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key limitUpdates was corrected from null to its default, true. 
+[22:06:53] [modloading-worker-0/WARN]: Configuration file C:\Users\tedik\curseforge\minecraft\Instances\vanilla_plus_plus\config\forge-client.toml is not correct. Correcting
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key client was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key client.alwaysSetupTerrainOffThread was corrected from null to its default, false. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key client.experimentalForgeLightPipelineEnabled was corrected from null to its default, false. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key client.showLoadWarnings was corrected from null to its default, true. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key client.useCombinedDepthStencilAttachment was corrected from null to its default, false. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key client.compressLanIPv6Addresses was corrected from null to its default, true. 
+[22:06:53] [modloading-worker-0/WARN]: Configuration file C:\Users\tedik\curseforge\minecraft\Instances\vanilla_plus_plus\config\minecolonies-client.toml is not correct. Correcting
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key gameplay was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key gameplay.enablecitizenvoices was corrected from null to its default, true. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key gameplay.neighborbuildingrendering was corrected from null to its default, true. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key gameplay.neighborbuildingrange was corrected from null to its default, 4. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key gameplay.buildgogglerange was corrected from null to its default, 50. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key gameplay.colonyteamborders was corrected from null to its default, true. 
+[22:06:53] [modloading-worker-0/WARN]: Configuration file C:\Users\tedik\curseforge\minecraft\Instances\vanilla_plus_plus\config\create-client.toml is not correct. Correcting
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key client was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key client.enableTooltips was corrected from null to its default, true. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key client.enableOverstressedTooltip was corrected from null to its default, true. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key client.explainRenderErrors was corrected from null to its default, false. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key client.fanParticleDensity was corrected from null to its default, 0.5. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key client.filterItemRenderDistance was corrected from null to its default, 10.0. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key client.enableRainbowDebug was corrected from null to its default, true. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key client.maximumContraptionLightVolume was corrected from null to its default, 16384. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key client.mainMenuConfigButtonRow was corrected from null to its default, 2. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key client.mainMenuConfigButtonOffsetX was corrected from null to its default, -4. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key client.ingameMenuConfigButtonRow was corrected from null to its default, 3. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key client.ingameMenuConfigButtonOffsetX was corrected from null to its default, -4. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key client.ignoreFabulousWarning was corrected from null to its default, false. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key client.goggleOverlay was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key client.goggleOverlay.overlayOffsetX was corrected from null to its default, 20. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key client.goggleOverlay.overlayOffsetY was corrected from null to its default, 0. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key client.goggleOverlay.customColorsOverlay was corrected from null to its default, false. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key client.goggleOverlay.customBackgroundOverlay was corrected from null to its default, -267386864. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key client.goggleOverlay.customBorderTopOverlay was corrected from null to its default, 1347420415. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key client.goggleOverlay.customBorderBotOverlay was corrected from null to its default, 1344798847. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key client.placementAssist was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key client.placementAssist.indicatorType was corrected from null to its default, TEXTURE. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key client.placementAssist.indicatorScale was corrected from null to its default, 1.0. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key client.ponder was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key client.ponder.comfyReading was corrected from null to its default, false. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key client.ponder.editingMode was corrected from null to its default, false. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key client.sound was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key client.sound.enableAmbientSounds was corrected from null to its default, true. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key client.sound.ambientVolumeCap was corrected from null to its default, 0.10000000149011612. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key client.trains was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key client.trains.mountedZoomMultiplier was corrected from null to its default, 3.0. 
+[22:06:53] [modloading-worker-0/WARN]: Configuration file C:\Users\tedik\curseforge\minecraft\Instances\vanilla_plus_plus\config\forge-common.toml is not correct. Correcting
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key general was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key general.cachePackAccess was corrected from null to its default, true. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key general.indexVanillaPackCachesOnThread was corrected from null to its default, false. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key general.indexModPackCachesOnThread was corrected from null to its default, false. 
+[22:06:53] [modloading-worker-0/WARN]: Configuration file C:\Users\tedik\curseforge\minecraft\Instances\vanilla_plus_plus\config\minecolonies-common.toml is not correct. Correcting
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key gameplay was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key gameplay.generatesupplyloot was corrected from null to its default, true. 
+[22:06:53] [modloading-worker-0/WARN]: Configuration file C:\Users\tedik\curseforge\minecraft\Instances\vanilla_plus_plus\config\create-common.toml is not correct. Correcting
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key worldgen was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key worldgen.v2 was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.disableWorldGen was corrected from null to its default, false. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.striated_ores_nether was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.striated_ores_nether.clusterSize was corrected from null to its default, 32. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.striated_ores_nether.frequency was corrected from null to its default, 0.0833333358168602. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.striated_ores_nether.minHeight was corrected from null to its default, 40. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.striated_ores_nether.maxHeight was corrected from null to its default, 90. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.striated_ores_overworld was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.striated_ores_overworld.clusterSize was corrected from null to its default, 32. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.striated_ores_overworld.frequency was corrected from null to its default, 0.0833333358168602. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.striated_ores_overworld.minHeight was corrected from null to its default, -30. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.striated_ores_overworld.maxHeight was corrected from null to its default, 70. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.zinc_ore was corrected from null to its default, SimpleCommentedConfig:{}. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.zinc_ore.clusterSize was corrected from null to its default, 12. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.zinc_ore.frequency was corrected from null to its default, 8.0. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.zinc_ore.minHeight was corrected from null to its default, -63. 
+[22:06:53] [modloading-worker-0/WARN]: Incorrect key worldgen.v2.zinc_ore.maxHeight was corrected from null to its default, 70. 
+[22:06:55] [Forge Version Check/INFO]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[22:06:56] [Forge Version Check/INFO]: [forge] Found status: UP_TO_DATE Current: 43.1.7 Target: null
+[22:06:56] [Forge Version Check/INFO]: [flywheel] Starting version check at https://api.modrinth.com/updates/5lpsZoRi/forge_updates.json
+[22:06:56] [Forge Version Check/INFO]: [flywheel] Found status: BETA Current: 0.6.7-8 Target: null
+[22:06:57] [Worker-Main-3/INFO]: Optifine compat disabled. Reason: waiting for optifine to catch up with vanilla
