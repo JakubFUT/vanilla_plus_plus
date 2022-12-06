@@ -5,7 +5,8 @@
     "ars_nouveau:worn_notebook": {
       "viewedEntries": [
         "ars_nouveau:equipment/dull_items",
-        "ars_nouveau:equipment/ring_of_lesser_discount"
+        "ars_nouveau:equipment/ring_of_lesser_discount",
+        "ars_nouveau:getting_started/spell_casting"
       ],
       "bookmarks": [],
       "completedManualQuests": []
