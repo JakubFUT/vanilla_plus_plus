@@ -1,0 +1,38 @@
+{
+	"level_seeds": [
+		{
+			"dim": "minecraft:overworld",
+			"seed": 1313650806836940559
+		},
+		{
+			"dim": "minecraft:the_end",
+			"seed": 1313650806836940559
+		},
+		{
+			"dim": "minecraft:the_nether",
+			"seed": 1313650806836940559
+		},
+		{
+			"dim": "deeperdarker:otherside",
+			"seed": 1313650806836940559
+		}
+	],
+	"structure_seeds": [
+		{
+			"dim": "minecraft:overworld",
+			"seed": 1313650806836940559
+		},
+		{
+			"dim": "minecraft:the_end",
+			"seed": 1313650806836940559
+		},
+		{
+			"dim": "minecraft:the_nether",
+			"seed": 1313650806836940559
+		},
+		{
+			"dim": "deeperdarker:otherside",
+			"seed": 1313650806836940559
+		}
+	]
+}
